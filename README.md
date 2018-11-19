@@ -1,3 +1,3 @@
 # Tips
 
-# Wifi_debug 無接線除錯
+Wifi_debug 無接線除錯
